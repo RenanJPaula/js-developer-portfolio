@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Willan Hercilio Pezzini",
+  "photo": "https://avatars.githubusercontent.com/u/158854677?v=4",
+  "job": "Desenvolvedor FullStack",
+  "location": "TIJUCAS - SC",
+  "phone": "(48) 98434-5284",
+  "email": "williantijucas@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -42,9 +42,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (iniciante)"
   ],
   "portfolio": [
     {
